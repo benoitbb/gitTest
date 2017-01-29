@@ -6,7 +6,7 @@ Template for a full-blown Vaadin application that only requires a Servlet 3.0 co
 
 
 
-blalalal 1 2
+blalalal 5 28
 Project Structure
 =================
 
